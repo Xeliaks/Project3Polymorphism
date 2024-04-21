@@ -1,4 +1,4 @@
-package com.example.classwork3;
+package com.example.project3;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

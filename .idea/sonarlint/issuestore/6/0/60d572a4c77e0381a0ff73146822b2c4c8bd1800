@@ -1,0 +1,10 @@
+
+—
+java:S1104"TMake outerVar a static final constant or non-public and provide accessors if needed.(‚Ò´ø8Ãëó‰ğ1J$894264dd-69c2-4c7c-98e6-5fbe2d7daa47
+r	java:S106
+"+Replace this use of System.out by a logger.(Á»‘Óÿÿÿÿÿ8ÀŸÔ‰ğ1J$ac50edf9-496e-4525-8ebf-6a09940ff6e4
+r	java:S106"+Replace this use of System.out by a logger.(ÉŒ‚‡ıÿÿÿÿ8ÀŸÔ‰ğ1J$02171c94-e6fb-4ea9-94ec-f52ae1885c07
+r	java:S106"+Replace this use of System.out by a logger.(››‘¿ıÿÿÿÿ8Ğß‰ğ1J$ead24250-b8c8-4ccf-9b7c-20a0da20a8eb
+	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ›çĞ8šŞÔ‰ğ1J$c7ecc639-e084-43e5-863f-e9b71e002d2c
+n
+java:S1172$"+Remove this unused method parameter "args".(õ›çĞ8 ŞÔ‰ğ1J$6f9673ea-8b40-4055-975d-8d62dfbfbaf5

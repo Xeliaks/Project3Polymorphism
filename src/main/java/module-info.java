@@ -3,6 +3,6 @@ module com.example.classwork3 {
     requires javafx.fxml;
 
 
-    opens com.example.classwork3 to javafx.fxml;
-    exports com.example.classwork3;
+    opens com.example.project3 to javafx.fxml;
+    exports com.example.project3;
 }

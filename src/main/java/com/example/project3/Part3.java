@@ -1,4 +1,4 @@
-package com.example.classwork3;
+package com.example.project3;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -40,7 +40,7 @@ class CustomControl extends Pane {
     }
 }
 
-public class Interface extends Application {
+public class Part3 extends Application {
 
     private CustomControl currentControl;
 
