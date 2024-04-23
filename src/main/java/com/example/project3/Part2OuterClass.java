@@ -13,7 +13,7 @@ public class Part2OuterClass {
 
 
     public void localClassExample() {
-        int localVar = 20;
+        int localVar = 100;
 
         class LocalClass {
             public void display() {
@@ -33,7 +33,7 @@ public class Part2OuterClass {
         t.start();
     }
 
-    public static void Part2(String[] args) {
+    public static void main(String[] args) {
 
         Part2OuterClass outer = new Part2OuterClass();
         Part2OuterClass.InnerClass inner = outer.new InnerClass();
